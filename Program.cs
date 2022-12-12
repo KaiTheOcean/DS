@@ -205,5 +205,17 @@ namespace MyApp // Note: actual namespace depends on the project name.
         //         keyNode.key = x;
         //     }
         // }
+        // root = new Node(2);
+        // root.left = new Node(1);
+        // root.left.left = new Node(6);
+        // root.right = new Node(9);
+        // root.right.left = new Node(12);
+        // root.right.right = new Node(8);
+
+        // int key = 11;
+        // insert(root, key);
+
+        // Console.Write("Inorder traversal after insertion:");
+        // inorder(root); // 1 6 2 9 8 11 12  
     }
 }
