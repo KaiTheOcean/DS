@@ -1,0 +1,15 @@
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/bin/Debug/net7.0/DS
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/bin/Debug/net7.0/DS.deps.json
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/bin/Debug/net7.0/DS.runtimeconfig.json
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/bin/Debug/net7.0/DS.dll
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/bin/Debug/net7.0/DS.pdb
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/obj/Debug/net7.0/DS.csproj.AssemblyReference.cache
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/obj/Debug/net7.0/DS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/obj/Debug/net7.0/DS.AssemblyInfoInputs.cache
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/obj/Debug/net7.0/DS.AssemblyInfo.cs
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/obj/Debug/net7.0/DS.csproj.CoreCompileInputs.cache
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/obj/Debug/net7.0/DS.dll
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/obj/Debug/net7.0/refint/DS.dll
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/obj/Debug/net7.0/DS.pdb
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/obj/Debug/net7.0/DS.genruntimeconfig.cache
+/Users/kaidizhang/Library/Mobile Documents/com~apple~CloudDocs/Desktop/CSE 212/DS/obj/Debug/net7.0/ref/DS.dll
